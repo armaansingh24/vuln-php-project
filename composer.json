@@ -1,0 +1,6 @@
+{
+  "require": {
+    "phpmailer/phpmailer": "5.2.23",    // CVE-2017-5223
+    "monolog/monolog": "1.12.0"         // CVE-2018-1000517
+  }
+}
